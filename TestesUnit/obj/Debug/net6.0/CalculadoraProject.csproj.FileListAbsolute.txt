@@ -1,0 +1,15 @@
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\bin\Debug\net6.0\CalculadoraProject.exe
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\bin\Debug\net6.0\CalculadoraProject.deps.json
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\bin\Debug\net6.0\CalculadoraProject.runtimeconfig.json
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\bin\Debug\net6.0\CalculadoraProject.dll
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\bin\Debug\net6.0\CalculadoraProject.pdb
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\CalculadoraProject.csproj.AssemblyReference.cache
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\CalculadoraProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\CalculadoraProject.AssemblyInfoInputs.cache
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\CalculadoraProject.AssemblyInfo.cs
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\CalculadoraProject.csproj.CoreCompileInputs.cache
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\CalculadoraProject.dll
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\refint\CalculadoraProject.dll
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\CalculadoraProject.pdb
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\CalculadoraProject.genruntimeconfig.cache
+C:\Users\Cbm-desenv03\Desktop\Cursos\TESTESUNITARIOS\TestesUnit\obj\Debug\net6.0\ref\CalculadoraProject.dll
